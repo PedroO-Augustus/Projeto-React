@@ -40,5 +40,6 @@ module.exports = {
     'react/state-in-constructor': 0,
     'no-unused-vars': 0,
     'comma-dangle': 0,
+    'linebreak-style': 0,
   },
 };
